@@ -1,0 +1,2 @@
+export const SET_CRYPTOS = 'SET_CRYPTOS'
+export const SET_CRYPTO_TO_VIEW = 'SET_CRYPTO_TO_VIEW'
